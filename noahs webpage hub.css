@@ -1,0 +1,77 @@
+body {
+    background-color: dodgerblue;
+}
+.introduction-to-web-page-hub {
+    font-family:Comic Sans MS;
+    text-align: center;
+}
+.welcome {
+    font-family:verdana;
+    text-align: center;
+}
+.button {
+    background-color: dodgerblue;
+    color:white;
+    font-family: Comic Sans MS;
+    text-align: center;
+    padding: 15px 25px;
+    text-decoration: none;
+    display: inline-block; 
+}
+a:hover {
+    color: red;
+    background-color: transparent;
+    text-decoration: underline;
+}
+.what-this-page-serves-for {
+    text-align: center;
+    font-family: Comic Sans MS;
+}
+.what-page-serves-for-p {
+    font-family: verdana;
+    text-align: center;
+}
+.If-You-Have-Any-Questions {
+    text-align: center;
+    font-family: Comic Sans MS;
+}
+.Q-P {
+    text-align: center;
+    font-family: verdana;
+}
+.button:hover {
+    background-color: black;
+    text-decoration: underline;
+}
+.version {
+    font-family: Comic Sans MS;
+    margin-top: 0px;
+}
+.introduction-to-web-page-hub:hover {
+    text-decoration: underline;
+}
+.summary-underline:hover {
+    text-decoration: underline;
+}
+.summary-font {
+    font-family: Comic Sans MS;
+}
+.summary-font:hover {
+    text-decoration: underline;
+}
+.Explore {
+    font-family: Comic Sans MS;
+}
+.Explore:hover {
+    text-decoration: underline;
+}
+.explore-p {
+    font-family: verdana;
+    text-align: center;
+}
+.hints {
+    font-family: Comic Sans MS;
+}
+.hints:hover {
+    text-decoration: underline;
+}

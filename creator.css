@@ -1,0 +1,40 @@
+body {
+    background-color: dodgerblue;
+}
+.button {
+    background-color: dodgerblue;
+    color:white;
+    font-family: Comic Sans MS;
+    text-align: center;
+    padding: 15px 25px;
+    text-decoration: none;
+    display: inline-block;    
+}
+a:hover {
+    color: red;
+    background-color: transparent;
+    text-decoration: underline;
+}
+table, th, td {
+    border: 1px solid black;
+    margin: auto;
+    border-collapse: collapse;
+    text-align: center;
+    border-radius: 10px;
+    border-style: outset;
+}
+th, td {
+    background-color: #96D4D4;
+}
+.table-error {
+    text-align: center;
+    font-size: 35px;
+    font-family: Comic Sans MS;
+}
+.home-link {
+    text-align: center;
+}
+.button:hover {
+    background-color: black;
+    text-decoration: underline;
+}
